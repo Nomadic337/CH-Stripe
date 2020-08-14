@@ -1,5 +1,5 @@
 # CH-Stripe
-Integrating stripe payment into eCommerce project in this repository: https://github.com/Nomadic337/Crown_Head
+Integrating stripe payment into original eCommerce project from this repository: https://github.com/Nomadic337/Crown_Head
 
 Crown Head Clothing Brand Store.
 
