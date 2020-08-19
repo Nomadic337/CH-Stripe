@@ -6,3 +6,4 @@ Crown Head Clothing Brand Store.
 Possible improvements for future self:
 * Update Stripe processing config
 * Re-initializing cartItems, cartIcon and cart dropdown after confirmation of successful payment.
+* Create Contact page
